@@ -15,7 +15,7 @@ pluginManagement {
 dependencyResolutionManagement {
 //    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 //    将 Gradle 的仓库策略从「强制优先 settings」改为「允许 project 仓库」，兼容 Flutter 插件的仓库添加行为
-    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
         google()
         mavenCentral()
