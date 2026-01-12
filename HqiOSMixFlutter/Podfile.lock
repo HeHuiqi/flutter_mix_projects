@@ -1,0 +1,60 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+  - Flutter (3.32.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - connectivity_plus
+    - Flutter
+    - path_provider_foundation
+    - shared_preferences_foundation
+    - sqflite_darwin
+    - vg_native_mix_flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+  - vg_native_mix_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity_plus (from `../voghion_flutter_module/.ios/.symlinks/plugins/connectivity_plus/ios`)
+  - Flutter (from `../voghion_flutter_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../voghion_flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - path_provider_foundation (from `../voghion_flutter_module/.ios/.symlinks/plugins/path_provider_foundation/darwin`)
+  - shared_preferences_foundation (from `../voghion_flutter_module/.ios/.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite_darwin (from `../voghion_flutter_module/.ios/.symlinks/plugins/sqflite_darwin/darwin`)
+  - vg_native_mix_flutter (from `../voghion_flutter_module/.ios/.symlinks/plugins/vg_native_mix_flutter/ios`)
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: "../voghion_flutter_module/.ios/.symlinks/plugins/connectivity_plus/ios"
+  Flutter:
+    :path: "../voghion_flutter_module/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../voghion_flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  path_provider_foundation:
+    :path: "../voghion_flutter_module/.ios/.symlinks/plugins/path_provider_foundation/darwin"
+  shared_preferences_foundation:
+    :path: "../voghion_flutter_module/.ios/.symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite_darwin:
+    :path: "../voghion_flutter_module/.ios/.symlinks/plugins/sqflite_darwin/darwin"
+  vg_native_mix_flutter:
+    :path: "../voghion_flutter_module/.ios/.symlinks/plugins/vg_native_mix_flutter/ios"
+
+SPEC CHECKSUMS:
+  connectivity_plus: cb623214f4e1f6ef8fe7403d580fdad517d2f7dd
+  Flutter: e40a648c57dc33d71cb015444a310e031c45f68b
+  FlutterPluginRegistrant: 29ac80307647bcefafb65c350b2173fa27a1d245
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  shared_preferences_foundation: 9e1978ff2562383bd5676f64ec4e9aa8fa06a6f7
+  sqflite_darwin: 20b2a3a3b70e43edae938624ce550a3cbf66a3d0
+  vg_native_mix_flutter: 122676441688d3bce9269bbd82ca3f38e1c70a1e
+
+PODFILE CHECKSUM: 683b68ad9a9905e962683babe18fc9a9da3a9369
+
+COCOAPODS: 1.16.2

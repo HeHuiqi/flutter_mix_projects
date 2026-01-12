@@ -1,0 +1,2 @@
+Building Settings
+Sandboxing -> NO
