@@ -399,10 +399,10 @@ https://docs.flutter.cn/add-to-app/android/project-setup
 
 https://github.com/gtbluesky/fusion
 
+https://github.com/foxsofter/flutter_thrio
+
 不再更新维护
 https://github.com/alibaba/flutter_boost
-
-https://github.com/flutter-thrio/flutter_thrio
 
 
 
