@@ -136,6 +136,7 @@ class _VHomePageState extends State<VHomePage> with VgWidgetMixinClosePage {
             goods: goods,
             onTap: (goods) {
               int goodsId = goods?.id ?? -1;
+              VToast.show(message: "点击了商品$goodsId");
               VgNativeMixFlutter().openNativePageWithArgs(
                 routeName: 'goodsDetail',
                 args: {'goodsId': '$goodsId'},
